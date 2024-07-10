@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodSpartan</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="profile">profile</string>
+    <string name="find_your_food">Find Your Food</string>
+    <string name="hi_spartan">Hi Spartan Angel!</string>
+    <string name="time_to_feast">Time to Feast!</string>
+    <string name="stores">STORES</string>
+    <string name="popular">POPULAR</string>
+    <string name="cart">cart</string>
+    <string name="home">home</string>
+    <string name="account">Account</string>
+    <string name="history">History</string>
+    <string name="hom">Home</string>
+    <string name="order">Order</string>
+</resources>
